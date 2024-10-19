@@ -13,8 +13,3 @@ This project presents a comprehensive analysis of inflation trends across 30 cou
 - **CSV** for data input
 - **SQL/SQLite** for database management
 
-## Usage Instructions
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-
