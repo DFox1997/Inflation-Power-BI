@@ -1,14 +1,20 @@
-Global Inflation Trends Analysis
-Project Overview
-This Power BI dashboard provides an in-depth analysis of inflation trends across 30 countries. The project highlights historical inflation rates, the impact on currency value, and identifies significant inflation spikes over time.
+# Global Inflation Trends Analysis
 
-Key Features
-Interactive Dashboards: Explore inflation trends by region (Europe, Asia, Americas, etc.).
-Comparative Insights: Compare inflation rates across multiple countries and years.
-Key Metrics: Includes median, sum, and max inflation rate visualizations.
-Technology Used
-Power BI
-CSV Data Sources
-SQL/SQLite for Data Management
-How to Use
-Clone the repository and open the Power BI file to explore.
+## Project Overview
+This project presents a comprehensive analysis of inflation trends across 30 countries using Power BI. It examines how inflation rates have evolved over time, with a focus on the impact of inflation on currency value, including the comparison of £100 over time.
+
+## Key Features
+- **Interactive Dashboards**: Explore inflation rates and trends by region.
+- **Comparative Analysis**: Side-by-side comparisons of inflation across countries and time periods.
+- **Key Metrics**: Includes median, sum, and maximum inflation rate calculations.
+  
+## Technology Used
+- **Power BI** for data visualization
+- **CSV** for data input
+- **SQL/SQLite** for database management
+
+## Usage Instructions
+1. Clone the repository: 
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+
